@@ -1,2 +1,12 @@
+# twitch
+twitch.tv
+vod-secure.twitch.tv
+ttvnw.net
+
+# kick
+kick.com
+live-video.net
+pusher.com
+
 netflix.com
 lostfilm.tv
