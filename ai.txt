@@ -1,0 +1,15 @@
+deepl.com
+grok.com
+chatgpt.com
+claude.ai
+copilot.microsoft.com
+
+# Google
+gemini.google.com
+aistudio.google.com
+generativelanguage.googleapis.com
+ai.google
+deepmind.google
+alkalimining-pa.googleapis.com
+proactivebackend-pa.googleapis.com
+notebooklm.google
